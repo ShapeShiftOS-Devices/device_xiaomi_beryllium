@@ -1,6 +1,8 @@
 [
   {
-    "repository": "StaticDesignStudio/android_device_xiaomi_sdm845-common",
-    "target_path": "device/xiaomi/sdm845-common"
+    "repository": "device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "android_10",
+    "remote": "ssos-devices"
   }
 ]
