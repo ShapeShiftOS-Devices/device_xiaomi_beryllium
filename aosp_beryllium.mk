@@ -37,3 +37,6 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Launcher
 TARGET_LAUNCHER_CHOICE := pixel
+
+# Live wallpapers
+TARGET_PIXEL_LWP := true
