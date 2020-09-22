@@ -87,3 +87,7 @@ PRODUCT_COPY_FILES += \
 # PocketMode
 PRODUCT_PACKAGES += \
     XiaomiPocketMode
+
+# DumpState
+PRODUCT_PACKAGES += \
+    android.hardware.dumpstate@1.0-service-beryllium
